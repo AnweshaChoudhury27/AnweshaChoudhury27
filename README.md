@@ -95,7 +95,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" alt="female developer"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="female developer cute"/>
     </td>
   </tr>
 </table>
