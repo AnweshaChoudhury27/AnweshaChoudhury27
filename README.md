@@ -75,13 +75,14 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="female developer cute"/>
       <h3>🌤️ Weatherly</h3>
       <p>A responsive weather application delivering real-time updates via REST APIs. Built with HTML, CSS and JavaScript using the Fetch API and modern UI design principles.</p>
       <p>
@@ -91,11 +92,25 @@
         <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white"/>
       </p>
       <a href="https://anweshachoudhury.vercel.app/#projects">
-        <img src="https://img.shields.io/badge/🔗 View Project-a0c4ff?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🔗%20View%20Project-a0c4ff?style=for-the-badge"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="female developer cute"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="quiz app gif"/>
+      <h3>🧠 QuizForge</h3>
+      <p>An interactive quiz application built with TypeScript. Features a clean UI, dynamic question rendering, score tracking and a smooth user experience across all devices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+      <a href="https://quizforgeesd.vercel.app/">
+        <img src="https://img.shields.io/badge/🔗%20View%20Project-c9b1ff?style=for-the-badge"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/AnweshaChoudhury27/quizforgeesd">
+        <img src="https://img.shields.io/badge/⭐%20GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
