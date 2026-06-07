@@ -26,7 +26,7 @@ education   : B.Tech CSE @ Techno India University (2023–2027)
 cgpa        : 7.27
 focus       : Frontend Development · API Integration · Responsive Design
 status      : Open to internships & collaborations
-contact     : choudhuryanwesha27@gmail.com
+contact     : anweshachou57@gmail.com
 ```
 
 <br/>
@@ -104,7 +104,7 @@ const anwesha = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anweshachoudhury.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-choudhury27/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choudhuryanwesha27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anweshachou57@gmail.com)
 
 </div>
 
