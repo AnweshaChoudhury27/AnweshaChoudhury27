@@ -116,8 +116,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnweshaChoudhury27&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnweshaChoudhury27&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+### 🧪 Skills at a Glance
+
+| Skill | Proficiency |
+|:------|:-----------|
+| HTML & CSS | ████████████░░░ `80%` |
+| JavaScript | ███████████░░░░ `73%` |
+| Java | █████████░░░░░░ `60%` |
+| C / C++ | ████████░░░░░░░ `53%` |
+| REST APIs | ██████████░░░░░ `67%` |
+| DSA | ███████░░░░░░░░ `47%` |
 
 </div>
 
